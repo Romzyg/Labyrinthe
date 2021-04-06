@@ -1,6 +1,6 @@
 #include <stdio.h>
   
-
+// tu dois commenter ton code
 int main(void) {
 
 	int labyrinthe[15][15] = { {1,1,1,1,1,1,1,1,1,1,1,1,1,1,1},
@@ -44,7 +44,7 @@ void
 
 //Fonction switch pour diriger son pion
 
-//Fonction de vérification
+//Fonction de vÃ©rification
 
-//Fonction de félicitation
+//Fonction de fÃ©licitation
 
